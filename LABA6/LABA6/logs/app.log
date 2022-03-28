@@ -1,0 +1,19 @@
+00:01:43.136 [main] INFO  DAO.DAOConnectionManager - ESTABLISHED CONNECTION WITH MSSQL
+00:06:54.364 [main] INFO  DAO.DAOConnectionManager - ESTABLISHED CONNECTION WITH MSSQL
+00:06:54.411 [main] INFO  DAO.Request - SQl request one done
+00:06:54.423 [main] INFO  DAO.Request - SQl request two done
+00:06:54.449 [main] INFO  DAO.Request - SQl request three done
+00:06:54.462 [main] INFO  DAO.Request - SQl request five done
+00:06:54.464 [main] INFO  DAO.DAOConnectionManager - Disconnected from mssql
+14:50:21.262 [main] INFO  DAO.DAOConnectionManager - ESTABLISHED CONNECTION WITH MSSQL
+14:50:21.327 [main] INFO  DAO.Request - SQl request one done
+14:50:21.346 [main] INFO  DAO.Request - SQl request two done
+14:50:21.380 [main] INFO  DAO.Request - SQl request three done
+14:50:21.399 [main] INFO  DAO.Request - SQl request five done
+14:50:21.402 [main] INFO  DAO.DAOConnectionManager - Disconnected from mssql
+15:04:04.661 [main] INFO  DAO.DAOConnectionManager - ESTABLISHED CONNECTION WITH MSSQL
+15:04:04.715 [main] INFO  DAO.Request - SQl request one done
+15:04:04.734 [main] INFO  DAO.Request - SQl request two done
+15:04:04.763 [main] INFO  DAO.Request - SQl request three done
+15:04:04.778 [main] INFO  DAO.Request - SQl request five done
+15:04:04.780 [main] INFO  DAO.DAOConnectionManager - Disconnected from mssql
