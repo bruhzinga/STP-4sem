@@ -4,12 +4,17 @@ import org.apache.log4j.Logger;
 
 public class Account {
     private static final Logger LOG = Logger.getLogger(Account.class);
-private  String Name;
-private  String Passport;
+    private String Name;
+    private String Passport;
 
     public Account(String name, String passport) {
         Name = name;
         Passport = passport;
+    }
+
+    public  Account()
+    {
+
     }
 
     public String getName() {

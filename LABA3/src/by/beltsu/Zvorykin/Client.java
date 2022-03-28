@@ -11,6 +11,19 @@ public class Client implements CanBlock {
         this.account = account;
         this.cards = cards;
     }
+    public  Client()
+    {
+
+
+    }
+
+    public Account getAccount() {
+        return account;
+    }
+
+    public void setAccount(Account account) {
+        this.account = account;
+    }
 
     Account account;
 
